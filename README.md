@@ -30,13 +30,6 @@ Projeto da disciplina da Inteligência Artificial (1/2022)
   
   Obs: Utilizamos o dataset disponibilizado no repositório: https://github.com/VitoriaCarvalho/MaskDetection, contendo  690 pessoas com mascaras e 686 imagens de pessoas sem mascaras. Atualizamos a acuracia para 1.853 com mascaras e 2.178 sem mascara. 
 
-Demostração da execução do Treinamento:
-
- <img src = 'Exemplos/exemplo1.png'>
-
- <img src = 'Exemplos/exemplo2.png'>
-
- Nas imagens acima, podemos notar:
 
  **EPOCH** - quantidade de treinos
 
